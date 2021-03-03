@@ -1,4 +1,4 @@
-# NeuroStartUp
+# NeuroStartUp изменил имя файла
 
 ![](logo.png)
 
